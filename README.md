@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente  trabalho com desenvolvimento Full stack
-- 📚 Atualmente estou aprendendo JavaScript
+- 👨🏻‍💻 Atualmente  trabalho com desenvolvimento Full stack 
+- 📚 Atualmente estou aprendendo JavaScript e aperfeiçoando meus conhecimentos em CSS
 
 <div align="center">
   <a href="https://github.com/pedro-lucas-dias-freitas">
