@@ -2,7 +2,7 @@
 
 
 - 👨🏻‍🎓 Graduando de Engenharia da Computação
-- 👨🏻‍💻 Atualmente trabalho com desenvolvimento Full stack
+- 👨🏻‍💻 Atualmente trabalho com Desenvolvimento Full Stack
 - 📚 Atualmente estou aprendendo JavaScript e aperfeiçoando meus conhecimentos em CSS
 
 <div align="center">
