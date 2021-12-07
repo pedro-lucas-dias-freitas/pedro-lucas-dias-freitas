@@ -1,9 +1,9 @@
-### Olá! Me chamo Pedro Lucas
+## Olá! Me chamo Pedro Lucas
 
 
-- 👨🏻‍🎓 Graduando de Engenharia da Computação
-- 👨🏻‍💻 Atualmente trabalho com Desenvolvimento Full Stack
-- 📚 Atualmente estou aprendendo JavaScript e aperfeiçoando meus conhecimentos em CSS
+- 👨🏻‍🎓 Majoring in Computer Engineering - Federal Unisersity of Ceara
+- 👨🏻‍💻 Currently working as a Web Developer Full Stack in own projects
+- 📚 Currently I'm learning C language and improving my knowledge in JavaScript
 
 <div align="center">
   <a href="https://github.com/pedro-lucas-dias-freitas">
