@@ -1,10 +1,9 @@
 ## Hi! My name is Pedro Lucas
 
 
-- 👨🏻‍🎓 Majoring in Computer Engineering - Federal Unisersity of Ceara
+- 👨🏻‍🎓 Majoring in Computer Science - University of Fortaleza(Unifor)
 - 👨🏻‍💻 Currently working as a Web Developer Full Stack in own projects
-- 📚 Currently I'm learning C language and improving my knowledge in JavaScript
-- 🔐 Cybersecurity enthusiast
+- 📚 Currently I'm improving my knowledge in GNU/Linux, computer network and JavaScript
 
 <div align="center">
   <a href="https://github.com/pedro-lucas-dias-freitas">
