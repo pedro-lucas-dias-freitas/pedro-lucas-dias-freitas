@@ -2,8 +2,8 @@
 
 
 - 👨🏻‍🎓 Majoring in Computer Science - University of Fortaleza(Unifor)
-- 👨🏻‍💻 Currently working as a Web Developer Full Stack in own projects
-- 📚 Currently I'm improving my knowledge in GNU/Linux, computer network and JavaScript
+- 👨🏻‍💻 Currently working as a Technical support at Lanlink
+- 📚 Currently I'm improving my knowledge in GNU/Linux, computer network and Java
 
 <div align="center">
   <a href="https://github.com/pedro-lucas-dias-freitas">
