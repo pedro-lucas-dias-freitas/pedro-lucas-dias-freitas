@@ -2,7 +2,7 @@
 
 
 - 👨🏻‍🎓 Majoring in Computer Science - University of Fortaleza(Unifor)
-- 👨🏻‍💻 Currently working as a Technical support at Lanlink
+- 👨🏻‍💻 Currently working as a Technical support at Lanlink Group
 - 📚 Currently I'm improving my knowledge in GNU/Linux, computer network and Java
 
 <div align="center">
